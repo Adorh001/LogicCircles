@@ -47,3 +47,6 @@ TagManager:
   - name: button
     uniqueID: 3211804543
     locked: 0
+  - name: Entity
+    uniqueID: 4211267993
+    locked: 0
